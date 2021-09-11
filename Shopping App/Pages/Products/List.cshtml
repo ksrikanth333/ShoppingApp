@@ -1,0 +1,17 @@
+﻿@page
+@model Shopping_App.Pages.Products.ListModel
+@{
+}
+<h1>Products</h1>
+@Model.Message
+
+<table class="table" >
+@foreach (var product in Model.ProductList) { 
+    <tr>
+        <td>@product.Id</td>
+        <td>@product.PoductName</td>
+        <td>@product.ProductCategory</td>
+        <td>@product.ProductPrice</td>
+    </tr>
+    }    
+</table>

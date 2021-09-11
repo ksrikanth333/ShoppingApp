@@ -1,0 +1,6 @@
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\bin\Debug\Products.Core.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\bin\Debug\Products.Core.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\obj\Debug\Products.Core.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\obj\Debug\Products.Core.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\obj\Debug\Products.Core.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Products.Core\obj\Debug\Products.Core.pdb

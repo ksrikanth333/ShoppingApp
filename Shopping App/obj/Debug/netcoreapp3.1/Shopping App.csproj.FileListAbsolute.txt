@@ -1,0 +1,43 @@
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.exe
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.deps.json
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.runtimeconfig.json
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.runtimeconfig.dev.json
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.Views.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Shopping App.Views.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Products.Core.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Products.Data.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Products.Data.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\bin\Debug\netcoreapp3.1\Products.Core.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.csproj.AssemblyReference.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.AssemblyInfoInputs.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.AssemblyInfo.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.RazorAssemblyInfo.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.RazorAssemblyInfo.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\staticwebassets\Shopping App.StaticWebAssets.Manifest.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\staticwebassets\Shopping App.StaticWebAssets.xml
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shopping App.styles.css
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.TagHelpers.input.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.TagHelpers.output.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.RazorCoreGenerate.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Products\List.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.RazorTargetAssemblyInfo.cache
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.RazorTargetAssemblyInfo.cs
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.Views.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.csproj.CopyComplete
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.dll
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.pdb
+C:\Users\srikanth\Desktop\Asp.net core Projects\Shopping App\Shopping App\obj\Debug\netcoreapp3.1\Shopping App.genruntimeconfig.cache
